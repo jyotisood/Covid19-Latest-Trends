@@ -25,3 +25,5 @@ This Data was compiled from WHO and European Centre for Disease Prevention and C
 For US States data, the New York Times Covid 19 Data was used from https://github.com/nytimes/covid-19-data
 
 DATA SCIENCE BLOG : https://medium.com/@kasakobe/making-sense-of-covid19-latest-data-92980a2e512e
+
+Note: Few Bokeh plots are not getting rendered in Jupyter notebook when uploaded to github. They can be seen in the html file.
